@@ -6,6 +6,57 @@ Git:
 
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
+
+==================================
+
+Аналитика данных на pandas:
+1) https://stepik.org/course/74457/syllabus
+2) https://stepik.org/course/3356/syllabus начать с секции (6. Неделя 2 - Векторы, Матрицы)
+3) https://www.kaggle.com/learn/pandas
+4) https://www.freecodecamp.org/learn/data-analysis-with-python/
+5) https://stepik.org/course/4852/syllabus (только введение)
+ПРАКТИКА В PANDAS: https://leetcode.com/problemset/pandas/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D
+6) https://www.w3schools.com/python/pandas/pandas_cleaning_wrong_data.asp
+6.1) https://www.datacamp.com/tutorial/data-preparation-with-pandas
+
+Pandas:
+1) 1 задача в день 
+https://leetcode.com/studyplan/introduction-to-pandas/ 
+2) когда закончишь начни 
+https://leetcode.com/studyplan/30-days-of-pandas/
+
+Probability:
+1)https://www.lektorium.tv/probability-statistics
+2)https://www.lektorium.tv/probability-statistics-8
+3)https://www.lektorium.tv/probability-statistics-9
+4)https://edu.sirius.online/#/course/1803
+
+Statistics:
+0)https://www.litres.ru/gettrial/?art=28731109&format=a4.pdf&lfrom=1021453250 статистика и котики
+4)https://stepik.org/course/76/syllabus
+5)https://stepik.org/course/524/syllabus
+
+Data Visual:
+1) https://www.kaggle.com/learn/data-visualization
+2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
+3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
+4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners
+
+Data Science:
+1) https://t.me/c/1937296927/832/13289 прочитать
+2) https://edu.sirius.online/#/course/1750 выполнить
+3) https://www.freecodecamp.org/learn/data-analysis-with-python/ получить сертификат
+4) https://education.yandex.ru/handbook/data-analysis выполнить
+
+Data Cleaning(Regex):
+1)https://leetcode.com/tag/string-matching/ выполнить изи и попробуй мидл
+2)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
+3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
+4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
+5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
+6)https://stepik.org/course/49442/syllabus получить сертификат
+7)https://www.kaggle.com/learn/data-cleaning 
+
 ==================================
 Python (получить сертификат):
 1)https://karpov.courses/pythonzero
